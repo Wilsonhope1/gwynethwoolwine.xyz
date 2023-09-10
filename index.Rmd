@@ -1,0 +1,16 @@
+---
+title: "Gwyneth Woolwine"
+image: "woolwine.jpg"
+color1: "#41D0D2"
+color2: "#F85D68"
+angle: 130
+links:
+  - label: linkedin
+    url: "https://linkedin.com/in/gwynethwoolwine"
+  - label: email
+    url: "mailto:gwynethwoolwine@gmail.com"
+output:
+  postcards::onofre
+---
+ 
+I’m a Strategy, Operations, and Government Procurement Expert improving delivery of digital products and services.
