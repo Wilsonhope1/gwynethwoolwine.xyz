@@ -5,9 +5,9 @@ color1: "#41D0D2"
 color2: "#F85D68"
 angle: 130
 links:
-  - label: linkedin
+  - label: LinkedIn
     url: "https://linkedin.com/in/gwynethwoolwine"
-  - label: email
+  - label: Email
     url: "mailto:gwynethwoolwine@gmail.com"
 output:
   postcards::onofre
